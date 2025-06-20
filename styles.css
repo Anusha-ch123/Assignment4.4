@@ -1,0 +1,19 @@
+.vertical-nav{
+    width: 200px;
+    background-color: #f1f1f1;
+    border: 1px solid gray;
+}
+.vertical-nav a {
+    display: block;
+    color: blue;
+    padding: 12px;
+    text-decoration: none;
+    background-color: skyblue;
+}
+.vertical-nav a:first-child{
+    background-color: orange; 
+    color: white;
+}
+.vertical-nav a:hover{
+    background-color: #ddd;
+}
